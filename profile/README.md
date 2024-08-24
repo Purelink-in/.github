@@ -37,3 +37,20 @@ Blood shortages are a global issue, leading to delayed treatments and life-threa
 
 PureLink operates on a subscription-based SaaS model for hospitals, offering tiered pricing plans to suit the needs of various healthcare institutions. The platform provides value by simplifying blood management, allowing pre-scheduled blood requests for surgeries, and handling bulk requests effectively.
 
+## Running the App
+
+### Frontend Setup
+To start the frontend development server, navigate to the `frontend` directory and run the following command:
+
+```bash
+npm start
+```
+
+## Backend Setup
+
+To run the backend (assuming a Django setup), navigate to the `backend` directory and run the following command:
+
+```bash
+python manage.py runserver
+```
+
