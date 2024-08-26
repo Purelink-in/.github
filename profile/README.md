@@ -54,3 +54,10 @@ To run the backend (assuming a Django setup), navigate to the `backend` director
 python manage.py runserver
 ```
 
+### Updating Live Server
+
+
+Backend Development: Work on the development/backend branch. To update the live system, pull from deployment/live-server.
+
+Frontend Development: Work on the main branch. Request @JeevanAwsm4 to pull from the deployment repository to update the live system.
+
